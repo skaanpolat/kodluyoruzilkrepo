@@ -1,8 +1,9 @@
 # Kodluyoruz İlk Repo
-Bu repo [Patika Başlangıç Seviye Java ile Backend Web Development Patikası](www.patika.dev) eğitimi kapsamında açtığım ilk repo.
+Bu repo [Patika Başlangıç Seviye Java ile Backend Web Development Patikası](https://app.patika.dev/egitimler) eğitimi kapsamında açtığım ilk repo.
 İçerisinde bir adet README dosyası, bir adet de index.html dosyası barındırıyor.
 ![](https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png)
-#Installation
+
+# Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```java
@@ -16,8 +17,8 @@ Linux için:
 cd kodluyoruzilkrepo
 code .
 ```
-##Contributing
+## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-##License
+## License
 MIT
